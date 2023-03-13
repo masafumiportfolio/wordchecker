@@ -1,6 +1,6 @@
 # wordchecker
 
-TodoリストをGUI上で管理できるアプリです。
+GUI上で、英単語を学びことができるアプリです。
 
 Python Tkinterにて作成しました。
 
